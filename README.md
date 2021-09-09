@@ -8,9 +8,6 @@
 - Adding CK Editor for post body.
 - Custome Style for the Application
 
-Final Show Case
-![VIEWS](https://github.com/MAshrafM/NodeJS_Projects/blob/master/04_nodeblog/show.jpg)
-
 ### Future
 - Adding passport from the previous project.
 - Restrict blog post to admin.
